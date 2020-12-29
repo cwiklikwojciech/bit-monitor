@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/bit-monitor/static/css/main.41fbb56e.chunk.css",
-    "main.js": "/bit-monitor/static/js/main.abe1210e.chunk.js",
-    "main.js.map": "/bit-monitor/static/js/main.abe1210e.chunk.js.map",
+    "main.js": "/bit-monitor/static/js/main.e47f9e5e.chunk.js",
+    "main.js.map": "/bit-monitor/static/js/main.e47f9e5e.chunk.js.map",
     "runtime-main.js": "/bit-monitor/static/js/runtime-main.1c7a0e09.js",
     "runtime-main.js.map": "/bit-monitor/static/js/runtime-main.1c7a0e09.js.map",
-    "static/js/2.3412dc3c.chunk.js": "/bit-monitor/static/js/2.3412dc3c.chunk.js",
-    "static/js/2.3412dc3c.chunk.js.map": "/bit-monitor/static/js/2.3412dc3c.chunk.js.map",
+    "static/js/2.a465bf16.chunk.js": "/bit-monitor/static/js/2.a465bf16.chunk.js",
+    "static/js/2.a465bf16.chunk.js.map": "/bit-monitor/static/js/2.a465bf16.chunk.js.map",
     "static/js/3.972d2082.chunk.js": "/bit-monitor/static/js/3.972d2082.chunk.js",
     "static/js/3.972d2082.chunk.js.map": "/bit-monitor/static/js/3.972d2082.chunk.js.map",
     "index.html": "/bit-monitor/index.html",
     "static/css/main.41fbb56e.chunk.css.map": "/bit-monitor/static/css/main.41fbb56e.chunk.css.map",
-    "static/js/2.3412dc3c.chunk.js.LICENSE.txt": "/bit-monitor/static/js/2.3412dc3c.chunk.js.LICENSE.txt"
+    "static/js/2.a465bf16.chunk.js.LICENSE.txt": "/bit-monitor/static/js/2.a465bf16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c7a0e09.js",
-    "static/js/2.3412dc3c.chunk.js",
+    "static/js/2.a465bf16.chunk.js",
     "static/css/main.41fbb56e.chunk.css",
-    "static/js/main.abe1210e.chunk.js"
+    "static/js/main.e47f9e5e.chunk.js"
   ]
 }
